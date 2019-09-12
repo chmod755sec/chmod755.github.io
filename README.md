@@ -1,5 +1,5 @@
 ## General Info
-If you want to do a writeup, you'll need to message me (JaguarZZ) in discord, so that I can make you a contributor.. Once you're a contributor, you'll be able to upload files.
+If you want to do a writeup, you'll need to message me (JaguarZZ) in discord, so that I can make you a contributor.. Once you're a contributor, you'll be able to upload files. Also one more thing to note, if u can, try to follow the format of the current writeups on the website.
 
 The first thing I'm going to talk about is how to do a pull request, so that you can properly link your images. If you do your writeups, and somehow have the img's in that writeup stored in a folder, then skip to "Imgs pull req", but if your're like me, and take snippets, then paste it into the writeup (editor), then follow the below.
 
@@ -22,6 +22,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+
+Three backticks at the start and end to make a code block:  
+"```"
+some code
+"```"
+Ignore the quotes.
 
 # Header 1
 ## Header 2
