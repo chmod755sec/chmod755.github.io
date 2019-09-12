@@ -42,7 +42,7 @@ Ignore the quotes.
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-
+```
 ## One last thing
 At the top of your writeup, please insert the following:
 ```
@@ -51,4 +51,3 @@ layout: post
 title:  "boxname writeup by username"
 ---
 ```
-The above must be at the top of the writeup
