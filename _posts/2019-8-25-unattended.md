@@ -10,9 +10,11 @@ Today i’m going to release this writeup of the retired Unattended machine!
 
 # Enumeration
 As usual we start with mapping the network using the wonderful tool Nmap  
+
 ![Image](/assets/unattended/img1.png)
 
-And we get 2 open ports: port 80 and port 443! As you can see we even have a domain name for the “https://” port. Let’s add it to /etc/hosts  
+And we get 2 open ports: port 80 and port 443! As you can see we even have a domain name for the “https://” port. Let’s add it to /etc/hosts
+
 ![Image](/assets/unattended/img2.png)
 
 Now that we have added the domain name in our host database, we can open the website in our browser and start checking for a vuln.
@@ -32,6 +34,7 @@ We found something; now it is time to check the source code to see what we got
 So  we can see we have parameters in “index.php”, “id” is the parameter. We can start with basic tests such as SQLi.. Appending “%27” to the end of  the URl is a good way to test for any problems
 ![Image](/assets/unattended/img6.png)  
 `Before the %27`
+
 ![Image](/assets/unattended/img7.png)  
 `After adding the %27`
 
