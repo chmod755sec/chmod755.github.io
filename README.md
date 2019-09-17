@@ -10,7 +10,7 @@ From what I've noticed, the easiest way of taking a pasted photo from an editor,
 Now that you've got the imgs in a folder, and the text in a file, we can move onto doing the pull req. The first thing you'll need to do, is go to the assets folder in the repos, then from there click on the folder of the box you're working on.. Click the “upload” button, and copy the imgs you'll be using into the folder. (if the box your working on isn't there, then create it, and do the above)
 
 ## Linking imgs to text & formating
-Next thing to do is create a file in the “_posts” folder, with the date and box name: “year-month-data-boxname.md”. There will be some other files in that folder, so you can just look at them, and you should understand the naming scheme. Next thing to do is copy the text from your writeup and insert it into the file you've just created. Now the final thing to do, is to link your imgs & do some formating. To link your images, you'll just need to use this little snippet of code, with a minor change: 
+Next thing to do is create a file in the “_posts” folder, with the date and box name: “year-month-day-boxname.md”. There will be some other files in that folder, so you can just look at them, and you should understand the naming scheme. Next thing to do is copy the text from your writeup and insert it into the file you've just created. Now the final thing to do, is to link your imgs & do some formating. To link your images, you'll just need to use this little snippet of code, with a minor change: 
 ```
 ![Image](/assets/BOXNAME/NAME_OF_THE_IMGS_000.jpg)
 ```
