@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bastion writeup by godzillabg"
+title:  "Unattended writeup by Friscas"
 ---
 
 ![Image](/assets/unattended/img0.png)
