@@ -4,7 +4,7 @@ If you want to do a writeup, you'll need to message me (JaguarZZ) in discord, so
 The first thing I'm going to talk about is how to do a pull request, so that you can properly link your images. If you do your writeups, and somehow have the img's in that writeup stored in a folder, then skip to "Imgs pull req", but if your're like me, and take snippets, then paste it into the writeup (editor), then follow the below.
 
 ## Extracting text & imgs
-From what I've noticed, the easiest way of taking a pasted photo from an editor, and turning it into a file, is to first convert your writeup to a PDF, then use a online extractor for the images & the text.. The online img extractor will name the imgs from 0-x amount, so it takes care of where your img were at in the writeup. Here are the links to extract the imgs & text: text) https://pdftotext.com/, imgs) https://www.extractpdf.com/.
+From what I've noticed, the easiest way of taking a pasted photo from an editor, and turning it into a file, is to first convert your writeup to a PDF, then use a online extractor for the images & the text.. The online img extractor will name the imgs from 0-x amount, so it takes care of where your img were at in the writeup. Here's the link the the extractor -- it'll extract text & images: https://www.extractpdf.com/
 
 ## Imgs pull req
 Now that you've got the imgs in a folder, and the text in a file, we can move onto doing the pull req. The first thing you'll need to do, is go to the assets folder in the repos, then from there click on the folder of the box you're working on.. Click the “upload” button, and copy the imgs you'll be using into the folder. (if the box your working on isn't there, then create it, and do the above)
